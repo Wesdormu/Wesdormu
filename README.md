@@ -2,7 +2,7 @@
 I speak three languages, Dutch, English (fluent) and German intermediate.
 Hoping to add some coding languages to that list some time sooN!
 
-👀 I’m interested in back-end development, videogames, story telling and world-building.
+👀 I’m interested in backend development, videogames, story telling and world-building.
 Hoping to eventually find my way into the videogames industry, something which has long been a dream and I'm finally taking action towards.
  
 🌱 I just started my first coding course and am learning how ot use python right now.
